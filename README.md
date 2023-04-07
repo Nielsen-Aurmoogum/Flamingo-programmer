@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : **nielsen.aurmoogum@gmail.com**
 
-- 📄 Know about my experiences : [-](-)
+- 📄 Know about my experiences : [https://www.linkedin.com/in/nielsen-aurmoogum-064558271/](-)
 
 - ⚡ Fun fact : **I am into trail running**
 
