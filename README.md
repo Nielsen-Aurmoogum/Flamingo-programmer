@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **-**
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at -
 
 - 📫 How to reach me : **nielsen.aurmoogum@gmail.com**
 
-- 📄 Know about my experiences : [https://www.linkedin.com/in/nielsen-aurmoogum-064558271/](-)
+- 📄 Know about my experiences : https://www.linkedin.com/in/nielsen-aurmoogum/
 
 - ⚡ Fun fact : **I am into trail running**
 
