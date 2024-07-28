@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielsen-aurmoogum&label=Profile%20views&color=0e75b6&style=flat" alt="nielsen-aurmoogum" /> </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 - 🔭 I’m currently working on [GlucoVision](https://github.com/KoalaaDev/Project-Oppenheimer)
 
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **nielsen.aurmoogum@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/nielsen-aurmoogum/](https://www.linkedin.com/in/nielsen-aurmoogum/)]([https://www.linkedin.com/in/nielsen-aurmoogum/](https://www.linkedin.com/in/nielsen-aurmoogum/))
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nielsen-aurmoogum/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
